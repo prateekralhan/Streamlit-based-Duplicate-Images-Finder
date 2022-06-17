@@ -24,6 +24,8 @@ streamlit run app.py --server.maxUploadSize=1028
 ## Results 
 ------------
 
+The sample dataset used for the demo can be found [here.](https://www.kaggle.com/datasets/barelydedicated/airbnb-duplicate-image-detection)
+
 | **Duplicate Images' Search within Single Directory**  | **Duplicate Images' Search within 2 Directories**  |
 |---------------------|-----------------------|
 | ![pic1](https://user-images.githubusercontent.com/29462447/174408690-a4e6cced-b8fc-4899-9585-de998ed5236f.png) | ![pic3](https://user-images.githubusercontent.com/29462447/174408698-a2c20a56-aeb9-49ee-a864-373fdd0914c9.png)  |
