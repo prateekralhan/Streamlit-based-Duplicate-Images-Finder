@@ -1,6 +1,6 @@
 # Streamlit based Duplicate Images Finder 📷 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
-A streamlit based webapp to find duplicate images from single/multiple directories.
+A streamlit based webapp to find duplicate images from single/multiple directories based on [difPy](https://github.com/elisemercury/Duplicate-Image-Finder) built by [elisemercury](https://github.com/elisemercury)
 
 ![demo1](https://user-images.githubusercontent.com/29462447/174408835-438234d9-5ff6-4159-a5e3-b908d885a8bc.gif)
 
